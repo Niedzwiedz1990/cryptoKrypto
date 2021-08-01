@@ -2,7 +2,7 @@ Project features:
 - pobieranie aktualnych wartosci ze strony,
 - pokazywanie ceny,
 - portfel,
-- logowanie użytkownika,
+- logowanie użytkownika,przeliczanie walut,
+-
 - transakcje,
-- przeliczanie walut,
 - 
