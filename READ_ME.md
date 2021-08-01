@@ -1,5 +1,6 @@
 Project features:
 - przełączanie giełd/inne api
+  -
 - pobieranie aktualnych wartości ze strony
 - napewno,aby pokazywala cene
 - wykresy
